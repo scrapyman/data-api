@@ -9,7 +9,7 @@
 
 
 #### 数据接口
-> <span style="color:darkorange; font-weight:bold;">电商</span>：拼多多、淘宝、抖音、快手、京东、TEMU、得物<br>
+> <span style="color:darkorange; font-weight:bold;">电商</span>：拼多多、淘宝、抖音、快手、京东、TEMU、得物、shopee<br>
 <span style="color:darkorange; font-weight:bold;">舆情</span>：小红书、微博、知乎、微信公众号、新闻、论坛、贴吧、Bigo<br>
 <span style="color:darkorange; font-weight:bold;">本地生活</span>：大众点评、饿了么、京东到家<br>
 <span style="color:darkorange; font-weight:bold;">视频</span>：抖音、快手、B站<br>
