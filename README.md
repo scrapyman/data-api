@@ -10,7 +10,7 @@
 
 #### 数据接口
 > <span style="color:darkorange; font-weight:bold;">电商</span>：淘宝(带精确预售量、精确月销量)、抖音、快手、京东、TEMU、得物、shopee<br>
-<span style="color:darkorange; font-weight:bold;">舆情</span>：小红书蒲公英，抖音星图，腾讯广告互选，小红书、微博、知乎、微信公众号、新闻、论坛、贴吧、Bigo、百度指数<br>
+<span style="color:darkorange; font-weight:bold;">舆情</span>：小红书蒲公英，抖音巨量星图，快手磁力聚星，B站花火，腾讯广告互选，微博微任务，小红书、微博、知乎、微信公众号、新闻、论坛、贴吧、Bigo、百度指数<br>
 <span style="color:darkorange; font-weight:bold;">本地生活</span>：携程，大众点评、饿了么、京东到家<br>
 <span style="color:darkorange; font-weight:bold;">视频</span>：抖音、快手、B站<br>
 <span style="color:darkorange; font-weight:bold;">房地产</span>：贝壳、房天下、安居客等<br>
