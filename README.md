@@ -64,6 +64,10 @@
 
 - Lazada商品详情
 
+### SHEIN
+
+- SHEIN商品详情
+
 ### Shopee
 
 - Shopee商品详情
