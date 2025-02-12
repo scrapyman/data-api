@@ -7,7 +7,7 @@
 可通过以下方式获取数据接口文档，提供免费测试。充值金额没有有效期，用完为止。
 
 - **微信**: scrapyman_com  
-- **Telegram**: [t.me/fuckingrichman](https://t.me/fuckingrichman)
+- **Telegram**: [t.me/heheheheheman](https://t.me/heheheheheman)
 
 如有任何问题，欢迎联系我们。
 
